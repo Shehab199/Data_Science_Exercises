@@ -1,4 +1,4 @@
-# Data Science Exercises
+# ML Practices
 
 This repository contains exercises and examples demonstrating proficiency with key Python libraries for data analysis and machine learning. Each notebook covers a specific topic:
 
